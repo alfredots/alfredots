@@ -18,7 +18,7 @@
 
 <br/>
 
-<img align="center" src="docs/mario-developer.gif" alt=""/>
+<img align="center" src="docs/mario-developer.gif" alt="" width="500" />
 
 
 <br/>
