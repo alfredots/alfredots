@@ -1,5 +1,9 @@
 ### Hey 👋
 
+<div align='center'>
+  ![image](https://github.com/alfredots/alfredots/assets/24683775/51288e0f-8bc1-462f-a77a-a4ad7e83e15d)
+</div>
+
 Desenvolvedor Pleno Frontend e entusiasta da cultura sul-coreana.
 
 Minha missão é dar asas a imaginação do usuário por meio da tecnologia promovendo experiências incríveis.
