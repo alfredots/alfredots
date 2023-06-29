@@ -1,7 +1,8 @@
-### Hey 👋
+### Olá, eu sou Alfredo 👋
 
-![image](https://github.com/alfredots/alfredots/assets/24683775/80c63347-c2e9-4bcf-b02f-5473e63f7bf9)
-
+<div align='center'>
+  <img src="docs/mario-developer.gif" alt="" width="500" />
+</div>
 
 Desenvolvedor Pleno Frontend e entusiasta da cultura sul-coreana.
 
