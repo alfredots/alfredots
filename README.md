@@ -15,11 +15,12 @@
 <br/>
 
 ### Olá! Sou Desenvolvedor Frontend na Dotz. Sou mais focado em desenvolver utilizando Javascript/Typescript, além disso gosto de me aventurar aprendendo sobre Design e UX. No tempo livre gosto de malhar e ver conteúdo sobre cultura sul-coreana na qual sou grande entusiasta.
-<br/>
-<img align="center" src="docs/mario-developer.gif" alt="" width="400" />
-
 
 <br/>
+
+<img align="center" src="docs/mario-developer.gif" alt=""/>
+
+
 <br/>
 
 ### Sobre mim:
