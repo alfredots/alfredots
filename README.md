@@ -18,7 +18,9 @@
 
 <br/>
 
-<img align="center" src="docs/mario-developer.gif" alt="" width="500" />
+<div style="display: flex; align-items: center; justify-content:center;">
+  <img src="docs/mario-developer.gif" alt="" width="500" />
+</div>
 
 
 <br/>
