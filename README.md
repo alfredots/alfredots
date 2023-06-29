@@ -4,11 +4,11 @@
 
 <div style="display: flex; align-items: center; gap: 4px;">
   <a href="https://www.linkedin.com/in/alfredo-tito-837429ba/">
-    <img align="left" alt="Alfredo's LinkedIn" width="32px" src="docs/linkedin-logo.png" />
+    <img align="center" alt="Alfredo's LinkedIn" width="32px" src="docs/linkedin-logo.png" />
   </a>
 
   <a href="https://www.instagram.com/garotocaos_/">
-    <img align="left" alt="Alfredo's Instagram" width="26px"  src="docs/instagram-logo2.png" />
+    <img align="center" alt="Alfredo's Instagram" width="26px"  src="docs/instagram-logo2.png" />
   </a>
 </div>
 
