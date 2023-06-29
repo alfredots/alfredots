@@ -13,13 +13,10 @@
 </div>
 
 <br/>
+
+### Olá! Sou Desenvolvedor Frontend na Dotz. Sou mais focado em desenvolver utilizando Javascript/Typescript, além disso gosto de me aventurar aprendendo sobre Design e UX. No tempo livre gosto de malhar e ver conteúdo sobre cultura sul-coreana na qual sou grande entusiasta.
 <br/>
-
-
-<div style="display: flex; align-items: center; gap: 4px;">
-<h3>Olá! Sou Desenvolvedor Frontend na Dotz. Sou mais focado em desenvolver utilizando Javascript/Typescript, além disso gosto de me aventurar aprendendo sobre Design e UX. No tempo livre gosto de malhar e ver conteúdo sobre cultura sul-coreana na qual sou grande entusiasta.</h3>
 <img align="center" src="docs/mario-developer.gif" alt="" width="400" />
-</div>
 
 
 <br/>
