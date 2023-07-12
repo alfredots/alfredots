@@ -32,3 +32,5 @@
 - 📚 Atualmente também estou me aventurando em NodeJS para backend e React Native para Mobile.
 - 📫 Caso esteja afim de trocar uma me envie um email alfredtito97@gmail.com
 
+![alfredots's Stats](https://github-readme-stats.vercel.app/api?username=alfredots&theme=default&show_icons=true&hide_border=false&count_private=true)
+![alfredots's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredots&theme=default&show_icons=true&hide_border=false&layout=compact)
