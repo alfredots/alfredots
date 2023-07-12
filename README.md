@@ -32,7 +32,3 @@
 - 📚 Atualmente também estou me aventurando em NodeJS para backend e React Native para Mobile.
 - 📫 Caso esteja afim de trocar uma me envie um email alfredtito97@gmail.com
 
-<div align='center'>
-  <img height="180em" src="https://github.com/alfredots/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredots&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
